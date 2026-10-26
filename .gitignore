@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*
+# Original resume (a renamed copy lives in public/)
+/Sauryadeep Deb_SAP BTP Integration_Resume.pdf
